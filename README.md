@@ -8,4 +8,5 @@ By using VLC, youtube_dl and spotipy, I've added the ability to search for a spo
 ### TODO
 * Non-blocking thread to run VLC
 * Podcasts
-* Better Speech?
+* Better Speech? Google Cloud TTS
+* Stream audio with personal media server(Plex/NextCloud?)
